@@ -1,0 +1,6 @@
+{
+    "connection_string": "AZURE_BLOB_CONNECTION_STRING",
+    "container_name": "CONTAINER_NAME",
+    "blob_name": "CSV_FILE_NAME.csv",
+    "output_excel_file": "CSV_FILE/output_file.xlsx"
+}
