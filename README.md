@@ -31,6 +31,7 @@ python read_blob_to_excel.py
 azure-blob-Storage-Connection/
 │
 ├── read_blob_to_excel.py    # Main script to read CSV from blob and save as Excel
+├── config.json              # Azure credentials details
 ├── requirements.txt         # List of required packages
 └── README.md                # Documentation for the project
 ```
